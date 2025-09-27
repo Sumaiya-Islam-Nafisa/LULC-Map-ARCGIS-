@@ -36,3 +36,5 @@ The objective of this project is to analyze and classify the Land Use/Land Cover
 ## 📊 Results
 - Classified map of Maheshkhali for 2024  
 - Looking at the map, the most prominent land uses appear to be Hill Forest (Yellow) covering the large central/eastern part of the island, followed by extensive areas of Agriculture (Light Green), and significant presence of Salt Pan (Pink) areas, especially toward the coastlines and river banks. Mangrove Forests (Dark Green) and Water (Blue) are also visible, primarily along the island's edges and inlets. Building Areas (Beige) seem to be scattered and less dominant than the other categories.
+- ![WhatsApp Image 2025-09-20 at 6 25 06 PM](https://github.com/user-attachments/assets/7f9b0e88-eaa1-4bc3-b2b3-b84a9bf924c5)
+
